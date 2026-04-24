@@ -1,2 +1,2 @@
 # Simple-Ball-Game
-This is a simple ball game created in Python by me.
+This is a simple ball game created in Python using the PyGame library for simple program demonstration.
